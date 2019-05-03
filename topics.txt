@@ -1,0 +1,9 @@
+- list operations
+- functions
+- for loop
+- while loop
+- dictionaries
+- if & else
+- try & except
+- 2D-list 
+- tuple
