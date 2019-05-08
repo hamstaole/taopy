@@ -1,8 +1,7 @@
 def double(num):
     """ Double the given number and return the result.
     """
-    result = num * 2
-    return(result)
+    return num * 2
 
 
 def convert_to_str(num):
@@ -12,9 +11,7 @@ def convert_to_str(num):
     -13 -> "-13"
     10  -> "10"
     """
-    # TODO
-    return
-
+    return str(num)
 
 def sum_list(aList):
     """Sum all the items in the given list, suppose the given list consists of numbers
@@ -23,7 +20,6 @@ def sum_list(aList):
     {0,1,2,3} -> 6
     {-1,1} -> 0
     """
-    # TODO
     return
 
 
